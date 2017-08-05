@@ -1,24 +1,8 @@
 This file is for you to describe the map-of-innovation application. Typically
 you would include information such as the information below:
 
-Installation and Setup
-======================
-
-Install ``map-of-innovation`` using easy_install::
-
-    easy_install map-of-innovation
-
-Make a config file as follows::
-
-    paster make-config map-of-innovation config.ini
-
-Tweak the config file as appropriate and then setup the application::
-
-    paster setup-app config.ini
-
-Then you are ready to go.
-
-ABOUT
+About
+=====
 
 We are creating an open-source (MIT license for code, CC BY-SA 4.0 for database) map/database/API for all the innovation spaces everywhere! This Atlas will merge existing lists of community innovation spaces from disparate maps onto a single, open-source platform— with an API so our data can be easily shared across other platforms. A tagging system will enable all spaces to share goals and find collaborators across interests such as electronic waste, prosthetics, 3D printing, primary education, green materials, water purification, etc. 
 
@@ -39,6 +23,28 @@ General details:
 - Our team: http://anansegroup.com
 
 This is an open source and not-for-profit initiative sponsored by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, the Fab Foundation, and the American Society of Mechanical Engineers (ASME).
+
+
+Installation and Setup
+======================
+
+Install ``map-of-innovation`` using easy_install::
+
+    easy_install map-of-innovation
+
+Make a config file as follows::
+
+    paster make-config map-of-innovation config.ini
+
+Tweak the config file as appropriate and then setup the application::
+
+    paster setup-app config.ini
+
+Then you are ready to go.
+
+
+Further Information
+===================
 
 Collaborators:
 - Our primary partners are the Open Movement: http://open.co
