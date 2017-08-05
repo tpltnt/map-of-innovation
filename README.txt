@@ -46,6 +46,8 @@ Then you are ready to go.
 Further Information
 ===================
 
+The webframework for this project is Pyramid: https://trypyramid.com/
+
 Collaborators:
 - Our primary partners are the Open Movement: http://open.co
 - We're working with rrbaker's Maker.json repo: https://github.com/rrbaker/maker.json
